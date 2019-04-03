@@ -1,8 +1,8 @@
 {
     "account_number": 0,
     "balance": 16623,
-    "firstname": "Bradshaw",
-    "lastname": "Mckenzie",
+    "first_name": "Bradshaw",
+    "last_name": "Mckenzie",
     "age": 29,
     "gender": "F",
     "address": "244 Columbus Place",
